@@ -1,0 +1,4 @@
+kurigram
+tgcrypto
+motor
+python-dotenv
