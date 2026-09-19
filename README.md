@@ -1,0 +1,1 @@
+# JSAutoReaction20bot
